@@ -1,0 +1,8 @@
+.btn-grey{
+background-color:#FFE0DB;
+padding: 15px 20px;
+border-radius:5px;
+color : rgba(50, 50, 50, 0.7);
+font-weight: bold;
+font-family: Lato, sans-serif;
+}
